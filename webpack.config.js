@@ -7,7 +7,7 @@ module.exports = {
 
     //output, where our files compile to
     output: {
-        path: path.resolve(__dirname, './dist/'),
+        path: path.resolve(__dirname, 'dist'),
         filename: 'main.js'
     },
     devServer:{
