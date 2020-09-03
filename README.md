@@ -85,3 +85,8 @@ This file is a biggie!  It handles all sorts of things like:
 4. rules for what exports to where!
 
 Open this file up and have a look at the provided notes in the code!
+
+## A Final Note:  How to Shut Down your Server When You Are Done!
+Click on your terminal and press **control-c**
+
+Yep, thats all it takes.
